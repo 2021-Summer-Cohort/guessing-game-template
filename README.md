@@ -2,9 +2,9 @@
 ## Assignment
 Try to complete all the iterations listed below.  Don't worry if you get stuck on one of them, we will review them tomorrow.
 
-For Tuesday, work on iterations 1-6.
+For Wednesday, work on iterations 1-3.
 
-For Wednesday work on the stretch task.
+For Thursday work on the remaining iterations and stretch task.
 
 ## Objective
 
